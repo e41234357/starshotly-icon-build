@@ -25,7 +25,7 @@
     "PlatformVersion" : "18.0",
     "SchemaVersion" : 2,
     "StorageVersion" : 17,
-    "Timestamp" : 1794217967
+    "Timestamp" : 1794219297
   },
   {
     "AssetType" : "Icon Image",
@@ -43,8 +43,8 @@
     "PixelWidth" : 1024,
     "RenditionName" : "Light.png",
     "Scale" : 1,
-    "SHA1Digest" : "C8986050DC0AB483FC15429324B559D9834C4827ABFDBF0250EE7DB331204DDC",
-    "SizeOnDisk" : 20329
+    "SHA1Digest" : "3B52DCD0F38D90675EB81D850657720F06B7335027DAB66F377E82651F0B9304",
+    "SizeOnDisk" : 15748
   },
   {
     "Appearance" : "UIAppearanceDark",
@@ -58,13 +58,13 @@
     "Idiom" : "phone",
     "Name" : "AppIcon",
     "NameIdentifier" : 6849,
-    "Opaque" : true,
+    "Opaque" : false,
     "PixelHeight" : 1024,
     "PixelWidth" : 1024,
     "RenditionName" : "Dark.png",
     "Scale" : 1,
-    "SHA1Digest" : "FA8EDDDC192FE872DD2446159E8C69694214045E22D295709B3685469D2FEC10",
-    "SizeOnDisk" : 18714
+    "SHA1Digest" : "3609BD0C5E3EC7D12A9705D2163011BB49034D39310D441D99D5826FAC53FB8F",
+    "SizeOnDisk" : 16181
   },
   {
     "Appearance" : "ISAppearanceTintable",
@@ -83,8 +83,8 @@
     "PixelWidth" : 1024,
     "RenditionName" : "Tinted.png",
     "Scale" : 1,
-    "SHA1Digest" : "AF6971FF0832504BEBC3718FEF26AD176DF4E3C4765BB6CFEBB69B61B9F9FF35",
-    "SizeOnDisk" : 12666
+    "SHA1Digest" : "A17890E0D3F02F7AC8DCB8D27926633CED34AAFE9B076898C4268B79BB697A37",
+    "SizeOnDisk" : 10019
   },
   {
     "AssetType" : "MultiSized Image",
