@@ -25,7 +25,7 @@
     "PlatformVersion" : "18.0",
     "SchemaVersion" : 2,
     "StorageVersion" : 17,
-    "Timestamp" : 1794219297
+    "Timestamp" : 1794222213
   },
   {
     "AssetType" : "Icon Image",
@@ -43,8 +43,8 @@
     "PixelWidth" : 1024,
     "RenditionName" : "Light.png",
     "Scale" : 1,
-    "SHA1Digest" : "3B52DCD0F38D90675EB81D850657720F06B7335027DAB66F377E82651F0B9304",
-    "SizeOnDisk" : 15748
+    "SHA1Digest" : "A67832F0AEA9B8E462458DFA5491271B6BAA9CD6D812A8E461D8124A5AC6FD5D",
+    "SizeOnDisk" : 19206
   },
   {
     "Appearance" : "UIAppearanceDark",
@@ -63,8 +63,8 @@
     "PixelWidth" : 1024,
     "RenditionName" : "Dark.png",
     "Scale" : 1,
-    "SHA1Digest" : "3609BD0C5E3EC7D12A9705D2163011BB49034D39310D441D99D5826FAC53FB8F",
-    "SizeOnDisk" : 16181
+    "SHA1Digest" : "20A277B616ADE01D152AD2E7728C344992576E619C9386A24DB9EF70E6BA0C11",
+    "SizeOnDisk" : 20030
   },
   {
     "Appearance" : "ISAppearanceTintable",
@@ -83,8 +83,8 @@
     "PixelWidth" : 1024,
     "RenditionName" : "Tinted.png",
     "Scale" : 1,
-    "SHA1Digest" : "A17890E0D3F02F7AC8DCB8D27926633CED34AAFE9B076898C4268B79BB697A37",
-    "SizeOnDisk" : 10019
+    "SHA1Digest" : "433349768F6F34CF6051B5E2A6E134A25B333110552C4372CEB6FC2A6C02253A",
+    "SizeOnDisk" : 13016
   },
   {
     "AssetType" : "MultiSized Image",
